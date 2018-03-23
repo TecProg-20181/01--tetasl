@@ -1,4 +1,4 @@
-#include <stdio.height >
+#include <stdio.h>
 
 typedef struct _pixel {
     unsigned short int red ;
